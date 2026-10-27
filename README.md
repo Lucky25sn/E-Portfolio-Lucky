@@ -300,8 +300,8 @@ The Sprint Backlog helped the team stay organised and focused on short-term goal
 ## 5. Agile Logbook
 ### Evidence
 Daily stand-ups, Tuesday to Friday, July to October 2026:
-- [Logbook, July to 7 August](evidence/Updated_Agile_Logbook_LaunchPadDev_4-7_August_2026.docx)
-- [Logbook, 11 August to 27 October](https://github.com/Lucky25sn/E-Portfolio-Lucky/blob/30967db3ef689e2e6242a2539df8ce79f01036ef/Agile_Logbook_11Aug_27Oct_2026.docx))
+- [Logbook, July to 7 August](https://github.com/Lucky25sn/E-Portfolio-Lucky/blob/083330503ca2f62a762117dcf1ad3a7071eb4e2f/Updated_Agile_Logbook_LaunchPadDev_4-7_August_2026.docx)
+- [Logbook, 11 August to 27 October](https://github.com/Lucky25sn/E-Portfolio-Lucky/blob/30967db3ef689e2e6242a2539df8ce79f01036ef/Agile_Logbook_11Aug_27Oct_2026.docx)
 
 ## Reflection: Agile Logbook
 
