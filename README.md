@@ -11,10 +11,32 @@ Individual e-portfolio for **Project Presentation 3 (PRP370S / PRP371S / PRP372S
 ## 1. Agile Team Charter
 ### Evidence
 Our charter defines purpose, roles, ceremonies, working agreements, communication and Definition of Done: [Agile Team Charter (Word)](evidence/Agile_Team_Charter_Draft_.docx)
-### Reflection
-> DRAFT based on my own answers: edit in your own words, then delete this line.
+## Reflection: Agile Team Charter
 
-Our charter set out working agreements such as showing up prepared and on time, respecting deadlines and raising blockers early. In practice, being prepared and on time was the hardest one to keep. Everyone was balancing other modules and commitments, so attendance and preparation varied from day to day. As the Technical & Feasibility member, I saw how a charter only works if people keep returning to it, not just when it is written. If I did it again, I would review the working agreements together at the start of each sprint.
+Creating the Agile Team Charter was an important learning experience for our team. The charter helped us define our project vision, team roles, working agreements, communication methods, and project goals for Agile Team Charter (1).
+
+Through this activity, I gained a better understanding of Agile principles and the importance of teamwork in project success. As the Technical & Feasibility Lead, I learned how important it is to ensure that ideas are realistic, achievable, and aligned with project requirements. The charter also highlighted the value of clear communication, accountability, and raising issues early before they become major problems.
+
+One challenge was ensuring that all team members understood their responsibilities and remained aligned with the project's objectives. The charter provided a clear reference point that helped improve collaboration and decision-making throughout the project.
+
+Overall, this task strengthened my understanding of Agile teamwork, project planning, and team accountability. It also showed me how a well-defined charter can support successful project delivery and continuous improvement.
+
+## STAR Method: Agile Team Charter
+# S - Situation
+
+Our team was required to create an Agile Team Charter for the LaunchPad.dev project, a student-focused career acceleration platform designed to help final-year ICT students transition into employment.
+
+# T - Task
+
+The task was to define the team's purpose, goals, roles, responsibilities, communication plan, working agreements, and Agile processes to ensure effective collaboration and project success.
+
+# A - Action
+
+I contributed as the Technical & Feasibility Lead by helping assess the practicality of the proposed solution, supporting Agile practices, and providing technical input. The team worked together to establish communication channels, working agreements, project milestones, and a clear Definition of Done. We also adopted Kanban using Trello to manage tasks and workflow.
+
+# R - Result
+
+The team successfully developed a comprehensive Agile Team Charter that provided clear direction for the project. The charter improved team alignment, communication, accountability, and collaboration. It also created a strong foundation for achieving project milestones and meeting submission deadlines
 
 ## 2. User Stories and Tasks
 ### Evidence
@@ -89,10 +111,32 @@ Full document: [User Stories and Tasks (Word)](evidence/User_Stories_and_Tasks.d
 - Prepare Final Presentation (Pertunia, due 29/10/2026)
 - Project Closure (Reotshepile, Lucky, Pertunia, Qhubekani, due 30/10/2026)
 
-### Reflection
-> DRAFT based on my own answers: edit in your own words, then delete this line.
+### Reflection: User Stories and Tasks
 
-The biggest thing I learned was how to break work into small tasks. A story such as a student wanting to build a CV felt too large to start on, but splitting it into small tasks made it manageable and easy to track on Trello. Small tasks also made it clear who was doing what and exposed problems earlier.
+Creating user stories and breaking them down into tasks helped me understand how Agile teams plan and manage project work. The user stories allowed us to focus on the needs of the end users while ensuring that each feature contributed to the overall goals of User_Stories_and_Tasks.
+
+Throughout this activity, I learned the importance of writing clear and user-focused requirements. By working with user stories such as authentication, API integration, mock interviews, accessibility improvements, and deployment, I gained a better understanding of how large projects can be divided into manageable tasks.
+
+As part of the team, I was responsible for several technical tasks, including reviewing business requirements, API planning, frontend integration, mock interview functionality, accessibility improvements, integration testing, and frontend deployment. These tasks helped me improve my planning, problem-solving, and technical collaboration skills.
+
+Overall, this activity strengthened my understanding of Agile project management and showed me how user stories help teams stay focused on delivering value to users while tracking progress effectively.
+
+## STAR Method: User Stories and Tasks
+# S - Situation
+
+Our team was required to create and manage user stories for the LaunchPad.dev project to ensure that the platform met the needs of students and other users. Each story represented a feature that would contribute to the success of the system.
+
+# T - Task
+
+The task was to define user requirements, break them down into manageable tasks, allocate responsibilities among team members, and track progress using the project backlog.
+
+# A - Action
+
+I participated in planning and analysing user stories and completed several assigned tasks, including reviewing business requirements, API planning, connecting the frontend to authentication services, developing the mock interview functionality, improving accessibility, conducting integration testing, and deploying the frontend application. These tasks were tracked and managed through the project backlog.
+
+# R - Result
+
+The user stories provided a clear roadmap for the development of LaunchPad.dev and helped the team organise work efficiently. The tasks ensured accountability, improved collaboration, and kept the project aligned with user needs. Through this process, I developed stronger Agile planning, technical development, and teamwork skills.
 
 ## 3. Product Backlog
 ### Evidence
@@ -146,8 +190,32 @@ Prioritised backlog from our [Trello board](https://trello.com/b/bcHU6C6I/wil-pr
 | Prepare Final Presentation |  | Pertunia | 29/10/2026 |
 | Project Closure | Final documentation, retrospective and submission | Reotshepile, Lucky, Pertunia, Qhubekani | 30/10/2026 |
 
-### Reflection
-> [Write in your own words] How did we prioritise the backlog? What moved up or down and why?
+## Reflection: Product Backlog
+
+Creating and maintaining the Product Backlog was an important part of planning and managing the LaunchPad.dev project. The backlog helped the team organise all project requirements, prioritise features, assign responsibilities, and track progress throughout the development lifecycle.
+
+Through this activity, I learned the importance of breaking down a large project into smaller, manageable tasks with clear deadlines and owners. The backlog provided visibility into what needed to be completed during each sprint and ensured that the team remained focused on delivering value to users. It also highlighted how Agile teams continuously review and refine priorities as the project progresses.
+
+My contributions included tasks such as API Planning, Connecting the Frontend to the Authentication API, Developing the Mock Interview Module, API Integration, Accessibility Improvements, Integration Testing, and Deploying the Frontend. Working on these tasks strengthened my technical skills, time management, and ability to collaborate effectively within an Agile team.
+
+Overall, the Product Backlog served as a roadmap for the project and helped the team stay organised, accountable, and aligned with project goals. This experience improved my understanding of Agile project management and how structured planning contributes to successful project delivery.
+
+## STAR Method: Product Backlog
+# S - Situation
+
+Our team was required to create and maintain a Product Backlog for the LaunchPad.dev project. The backlog contained all planned features, tasks, sprint activities, responsibilities, and deadlines needed to develop the platform successfully.
+
+# T - Task
+
+The task was to prioritise project requirements, allocate tasks to team members, monitor progress, and ensure that all project activities were completed according to the planned schedule.
+
+# A - Action
+
+The team used a Trello Product Backlog to organise and track project work. I contributed by completing several assigned tasks, including API Planning, Connecting the Frontend to the Authentication API, Developing the Mock Interview Module, API Integration, Accessibility Improvements, Integration Testing, and Frontend Deployment. I also participated in Sprint Reviews and Retrospectives to discuss progress, challenges, and improvements.
+
+# R - Result
+
+The Product Backlog provided a clear structure for managing the project and helped the team prioritise work effectively. It improved communication, accountability, and collaboration among team members while ensuring that project milestones were achieved on time. Through this process, I gained practical experience in Agile planning, task management, and project execution.
 
 ## 4. Sprint Backlog
 ### Evidence
@@ -202,15 +270,62 @@ Board screenshots:
 
 ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103402.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103424.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103439.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103452.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103507.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103519.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103532.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103543.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103611.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103631.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103644.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103659.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103712.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103742.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103752.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103801.png) 
 
-### Reflection
-> [Write in your own words] What was a sprint goal, was it met, and what did the retrospective change?
+## Reflection: Sprint Backlog
+
+Managing the Sprint Backlog helped our team organise work into smaller and more achievable goals for each sprint. By planning tasks weekly, we were able to focus on completing specific deliverables while monitoring progress throughout the development of the LaunchPad.dev project.
+
+During the sprints, I was responsible for tasks such as reviewing business requirements, configuring the project structure, creating user flow diagrams, implementing JWT security, and participating in testing activities. Breaking work into sprints helped me understand how Agile teams deliver work incrementally rather than attempting to complete everything at once.
+
+One of the key lessons I learned was the importance of communication and collaboration. Sprint Reviews and Retrospectives provided opportunities to discuss completed work, identify challenges, and adjust plans for upcoming sprints. This helped the team remain aligned and continuously improve the way we worked together.
+
+The sprint goals were generally achieved because tasks were clearly assigned and tracked on the Sprint Backlog. Retrospectives encouraged us to improve planning, communicate blockers earlier, and better manage workloads. Overall, this experience strengthened my understanding of Agile development, teamwork, task prioritisation, and continuous improvement.
+
+## STAR Method: Sprint Backlog
+# S – Situation
+
+Our team was required to manage project work using Sprint Backlogs, with one sprint taking place each week from Tuesday to Friday. The goal was to organise tasks, track progress, and ensure project milestones were completed throughout the development of LaunchPad.dev.
+
+# T – Task
+
+The task was to plan sprint goals, complete assigned backlog items, participate in Sprint Reviews and Retrospectives, and contribute towards the successful development of the project.
+
+# A – Action
+
+I completed several assigned tasks across different sprints, including reviewing business requirements, configuring the project structure, creating user flow diagrams, implementing JWT security, and supporting testing activities. I also participated in Sprint Reviews and Retrospectives where the team discussed progress, challenges, and improvements for future sprints.
+
+# R – Result
+
+The Sprint Backlog helped the team stay organised and focused on short-term goals while contributing to the overall project objectives. Most sprint goals were achieved within the planned timelines, and the retrospective meetings helped improve communication, task management, and team collaboration. As a result, I gained valuable experience in Agile sprint planning, project tracking, and collaborative software development.
 
 ## 5. Agile Logbook
 ### Evidence
 Daily stand-ups, Tuesday to Friday, July to October 2026:
 - [Logbook, July to 7 August](evidence/Updated_Agile_Logbook_LaunchPadDev_4-7_August_2026.docx)
 - [Logbook, 11 August to 27 October](evidence/Agile_Logbook_11Aug_27Oct_2026.docx)
-### Reflection
-> DRAFT based on my own answers: edit in your own words, then delete this line.
 
-Time management was the impediment that appeared most in my stand-ups. My July entries repeatedly mention limited time and coordinating group members before deadlines. Writing the three stand-up questions each day made me notice this pattern. It taught me to plan in smaller timeboxes and to raise blockers sooner.
+## Reflection: Agile Logbook
+
+Maintaining the Agile Logbook throughout the LaunchPad.dev project helped me develop the habit of tracking my daily progress, planning upcoming tasks, and identifying potential blockers. Recording my work during daily stand-ups gave me a clear view of how my contributions supported the team's overall project goals.
+
+One pattern I noticed was that time management and team coordination were recurring challenges, particularly during the early stages of the project. Several of my stand-up entries mentioned managing deadlines, coordinating feedback from team members, and balancing project responsibilities. By documenting these challenges daily, I became more aware of the importance of planning work in smaller tasks and communicating blockers as soon as they arose.
+
+The logbook also helped me reflect on my technical contributions, including reviewing business requirements, API planning, authentication integration, mock interview development, accessibility improvements, integration testing, and frontend deployment. Tracking these activities allowed me to see how the project progressed over time and helped me stay accountable for my assigned tasks.
+
+Overall, the Agile Logbook improved my organisation, communication, and self-management skills. It reinforced the value of daily reflection in Agile projects and helped me become more proactive in addressing risks and managing workloads effectively.
+
+## STAR Method: Agile Logbook
+# S – Situation
+
+As part of the LaunchPad.dev project, team members were required to maintain an Agile Logbook and participate in daily stand-up meetings from July to October 2026. The logbook was used to record completed work, planned tasks, and any impediments encountered during the project.
+
+# T – Task
+
+My task was to keep an accurate record of my daily project activities, report progress during stand-ups, identify blockers, and ensure that my work remained aligned with Sprint and Product Backlog goals.
+
+# A – Action
+
+I completed daily stand-up entries by documenting what I had achieved, what I planned to work on next, and any challenges I faced. I tracked tasks such as reviewing business requirements, API planning, authentication integration, mock interview development, accessibility improvements, integration testing, and frontend deployment. I also used the stand-ups to communicate progress and discuss risks with the team.
+
+# R – Result
+
+The Agile Logbook helped me stay organised, improve time management, and remain accountable for my responsibilities throughout the project. Regular reflection allowed me to identify recurring challenges, improve communication, and address issues more proactively. As a result, I gained practical experience in Agile project tracking, teamwork, and continuous improvement
