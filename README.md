@@ -40,7 +40,7 @@ The team successfully developed a comprehensive Agile Team Charter that provided
 
 ## 2. User Stories and Tasks
 ### Evidence
-Full document: [User Stories and Tasks (Word)](evidence/User_Stories_and_Tasks.docx). Summary:
+Full document: [User Stories and Tasks (Word)](https://github.com/Lucky25sn/E-Portfolio-Lucky/blob/f6f76d37e0306d2e0f54b41e93c87d244245ac43/User_Stories_and_Tasks.docx). Summary:
 
 **US-01 Technical foundation.** *As a development team, we want a clear design, database and API plan and a working project set-up, so that we can build LaunchPad.dev on a stable base.*
 - Review business requirements (Lucky, due 30/07/2026)
