@@ -10,7 +10,7 @@ Individual e-portfolio for **Project Presentation 3 (PRP370S / PRP371S / PRP372S
 
 ## 1. Agile Team Charter
 ### Evidence
-Our charter defines purpose, roles, ceremonies, working agreements, communication and Definition of Done: [Agile Team Charter (Word)](evidence/Agile_Team_Charter_Draft_.docx)
+Our charter defines purpose, roles, ceremonies, working agreements, communication and Definition of Done: [Agile Team Charter (1).docx](evidence/Agile Team Charter (1).docx)
 ## Reflection: Agile Team Charter
 
 Creating the Agile Team Charter was an important learning experience for our team. The charter helped us define our project vision, team roles, working agreements, communication methods, and project goals for Agile Team Charter (1).
