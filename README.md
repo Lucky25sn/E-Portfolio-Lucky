@@ -1,6 +1,6 @@
 # Lucky Twala: Agile Portfolio (LaunchPad.dev)
 
-Individual e-portfolio for **Project Presentation 3 (PRP370S / PRP371S / PRP372S)**, Diploma in ICT (Application Development), CPUT. LaunchPad.dev was built by our group of five; each section shows the group evidence and my own reflection. My Trello initials are LT (Lucky).
+Individual e-portfolio for **Project Presentation 3 (PRP372S)**, Diploma in ICT (Application Development), CPUT. LaunchPad.dev was built by our group of five; each section shows the group evidence and my own reflection. My Trello initials are LT (Lucky).
 
 - [Live site](https://launchpad-ev-production.up.railway.app/)
 - [Project source code](https://github.com/Lucky25sn/LaunchPadDev)
