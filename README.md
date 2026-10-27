@@ -266,10 +266,6 @@ One sprint per week, Tuesday to Friday.
 | Test app pages functionality |  | Pertunia, Reotshepile, Lucky, Qhubekani | 21/08/2026 |
 | Test Registration & Signup functionality |  | Pertunia | 13/08/2026 |
 
-Board screenshots:
-
-![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103402.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103424.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103439.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103452.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103507.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103519.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103532.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103543.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103611.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103631.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103644.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103659.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103712.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103742.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103752.png) ![Trello board](evidence/trello-screenshots/Screenshot_2026-10-27_103801.png) 
-
 ## Reflection: Sprint Backlog
 
 Managing the Sprint Backlog helped our team organise work into smaller and more achievable goals for each sprint. By planning tasks weekly, we were able to focus on completing specific deliverables while monitoring progress throughout the development of the LaunchPad.dev project.
